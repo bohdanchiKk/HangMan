@@ -19,7 +19,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         var started = false;
         while (!started){
-//           String gameStatus = read.;
+//           String gameStatus = read.;sd
            if (gameStatus=="S"){
                gameStart(word,'o');
                started = true;
