@@ -14,3 +14,5 @@ How to Play
     Guess Letters: Input letters one by one to guess the hidden word.
     Win or Lose: The game continues until you either guess the word correctly or make six incorrect guesses.
     Play Again: After the game ends, you can choose to start a new game or exit.
+
+https://youtu.be/nBR3qBLuho8
